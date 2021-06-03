@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prince Giolo son to the King of Moangis or Gilolo: lying under the æquator in the long. of 152 deg. 30 min. a fruitful island abounding with rich spices and other valuable commodities.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28375</idno><idno type="EEBO-CITATION">99833864</idno>
+  <idno type="VID">207908</idno>
+  <idno type="EEBO-PROQUEST">2240955890</idno>
+  
+            <idno type="STC">Wing P3484_VARIANT</idno>
+            <idno type="PROQUEST">99833864</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99833864e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28375)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207908)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2213:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prince Giolo son to the King of Moangis or Gilolo: lying under the æquator in the long. of 152 deg. 30 min. a fruitful island abounding with rich spices and other valuable commodities.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At foot of sheet: Vivant Rex &amp; Regina.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Giolo, --  Prince of Gilolo, b. ca. 1662 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="announcement">
+            <pb facs="tcp:207908:1"/>
+            <head>Prince <hi>Giolo</hi> Son to the King of <hi>Moangis</hi> or <hi>Gilolo:</hi> lying under the <hi>Aequator</hi> in the <hi>Long.</hi> of 152 <hi>Deg.</hi> 30 <hi>Min.</hi> a fruit<g ref="char:EOLhyphen"/>ful Island abounding with rich Spices and other valuable Commodities.</head>
+            <p>THIS unfortunate Prince sailing towards a neighbouring Island with his Mo<g ref="char:EOLhyphen"/>ther and young Sister, to Complement the intended Marriage betwixt her and the King of that Island, a violent Tempest surprized them and drove the Vessel on shoar upon the Coast of <hi>Mindanao;</hi> where they were all made Prisoners, except the young Lady, with whom the King was so inamoured, that he took her to Wife; yet suffered the Prince and his Mother <hi>Nacatara</hi> to be purchased for Money, who were soon, after embarqued for <hi>Europe:</hi> the Mother died, but the Prince her Son is arriv'd in <hi>England.</hi>
+            </p>
+            <p>This famous <hi>painted Prince</hi> is the just wonder of the Age, his whole Body (except Face, Hands and Feet,) is curiously and most exquisitely <hi>painted</hi> or <hi>stained</hi> full of Variety of Invention, with prodigious Art and Skill perform'd. In so much, that the antient and noble Mystery of Painting or Staining upon Humane Bodies seems to be comprised in this one stately Piece.</p>
+            <p>The Pictures and those other engraven Figures copied from him, and now dispersed abroad, serve only to describe as much as they can of the Fore-parts of this inimitable Piece of Work<g ref="char:EOLhyphen"/>manship: The more admirable Back-parts afford us a lively Representation of one quarter part of the World upon and betwixt his shoulders, where the Arctick and Tropick Circles center in the North Pole on his Neck. And all the other Lines, Circles and Characters are done in such exact Symmetry and Proportion, that it is astonishing and surmounts all that has hi<g ref="char:EOLhyphen"/>therto been seen of this kind. What Wisdom and antient Learning may lie veiled under those other curious Figures and mysterious Characters scattered up and down his Body, must be the Work of very ingenious Men to discover.</p>
+            <p>The Paint it self is so durable, that nothing can wash it off, or deface the beauty of it: It is prepared from the Juice of a certain Herb or Plant, peculiar to that Country, which they esteem infallible to preserve humane Bodies from the deadly poison or hurt of any venomous Creatures whatsoever. This Custom they observe, that in some short time after the Body is paint<g ref="char:EOLhyphen"/>ed, the same Body is carried naked, with much Ceremony, to a spacious Room appointed, which is filled with all sorts of the most venomous, pernicious Creatures can be found; such as Snakes, Scorpions, Vipers, and Centapees, <hi>&amp;c.</hi> (The King himself present). The Gran<g ref="char:EOLhyphen"/>dees and multitude of Spectators seeing the naked Body surrounded with so many venomous Creatures, and unable to wound or do any mischief to it; seem to be transported and ready to adore him; for none but those of the Royal Family are permitted to be thus painted with it.</p>
+            <p>This excellent Piece has been lately seen by many Persons of high Quality, and accu<g ref="char:EOLhyphen"/>rately surveyed by several learned <hi>Virtuosi,</hi> and ingenious Travellers, who have express'd very great satisfaction in seeing of it.</p>
+            <p>This admirable Person is about the Age of Thirty, graceful, and well proportioned in all his Limbs, extreamly modest and civil, neat and cleanly; but his Language is not under<g ref="char:EOLhyphen"/>stood, neither can be speak English.</p>
+            <p>He will be exposed to publick view every day (during his stay in Town) from the 16th. day of this instant <hi>June,</hi> at his Lodgings at the <hi>Blew Boars-Head</hi> in <hi>Fleetstreet,</hi> near <hi>Water-Lane:</hi> Where he will continue for some time, if his health will permit.</p>
+            <p>But if any Persons of Quality, Gentlemen, or Ladies, do desire to see this noble Person, at their own Houses, or any other convenient place, in or about this City of <hi>London;</hi> they are desired to send timely notice, and he will be ready to wait upon them in a Coach or Chair, any time they please to appoint, if in the day time.</p>
+            <closer>
+               <signed>Vivant Rex &amp; Regina.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
